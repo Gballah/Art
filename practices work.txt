@@ -1,0 +1,14 @@
+<!Doctype htlm>
+<html>
+<head>
+<title> Structure Document for the web </title>
+</head>
+<body>
+<p>
+my Bonnie lies over the ocean 
+my Bonnie lies over the sea
+My Bonnie lies over the ocean
+Oh, Bring back my Bonnie to 
+</p>
+</body>
+</html>
